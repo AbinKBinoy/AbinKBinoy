@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:1a2942&height=160&section=header&text=Abin%20Kuzhuvelikalam%20Binoy&fontSize=34&fontColor=FFD100&animation=fadeIn&fontAlignY=42&desc=Software%20Engineering%20Student%20%40%20UVic&descAlignY=62&descSize=15&descColor=E6E8EE" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&size=18&duration=2800&pause=1200&color=FFD100&center=true&vCenter=true&width=600&lines=First-year+Software+Engineering+at+UVic;Currently+building+ShiftSync;Learning+by+shipping+real+things" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&size=18&duration=2800&pause=1200&color=FFD100&center=true&vCenter=true&width=600&lines=Second-year+Software+Engineering+at+UVic;Currently+building+ShiftSync;Learning+by+shipping+real+things" alt="typing" />
 
 </div>
 
