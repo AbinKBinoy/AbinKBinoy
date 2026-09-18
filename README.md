@@ -8,7 +8,7 @@
 
 <br>
 
-I'm a first-year Software Engineering student at the University of Victoria. I work part-time at Best Buy, and I build things that fix problems I actually run into.
+I'm a second-year Software Engineering student at the University of Victoria. I work part-time at Best Buy, and I build things that fix problems I actually run into.
 
 **Right now I'm building [ShiftSync](https://shiftsync.win)** — an app that reads a photo of a posted work schedule and turns it into a shared team calendar, so shift swaps don't happen over screenshots and group chats. It's live and in use.
 
